@@ -3,6 +3,6 @@
     "description": "fcg81 French Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/fcg81/frenchrepocs/refs/heads/builds/plugins.json?token=GHSAT0AAAAAAEITLTVCEVNYB3DR3DTZ6CRE2VC4LHA"
+        "https://raw.githubusercontent.com/fcg81/frenchrepocs/refs/heads/builds/plugins.json"
     ]
 }
